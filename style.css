@@ -4,8 +4,7 @@
 	width:150px;
 	border: 5px solid #000000;
 	border-radius:150px;
-    padding:20px; 
-	position:absolute; 
+    position:absolute; 
 	top:50px;
 	left:150px;
 }
@@ -16,7 +15,6 @@
 	width:150px;
 	border:5px solid #000000;
 	border-radius: 150px;
-    padding:20px; 
 	position:absolute; 
 	top:50px;
 	left:500px;
@@ -27,8 +25,7 @@
 	height:80px;
 	width:80px;
 	border:5px solid #000000;
-    padding:20px; 
-	position:absolute; 
+    position:absolute; 
 	top:300px;
 	left:360px;
 }
@@ -38,8 +35,7 @@
 	height:80px;
 	width:600px;
 	border:5px solid #000000;
-    padding:20px; 
-	position:absolute; 
+    position:absolute; 
 	top:500px;
 	left:100px;
 }
